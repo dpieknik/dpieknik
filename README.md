@@ -2,10 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity & Scripting Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>JavaScript</b>
   - [Temperature Conversion Starter](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Sum of Numbers](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -14,7 +10,6 @@
   - [Image Gallery](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [Temperature Conversion Revisit](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
 
