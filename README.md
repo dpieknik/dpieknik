@@ -3,12 +3,13 @@
 <h2>👨‍💻 Cybersecurity & Scripting Projects:</h2>
 
 - <b>JavaScript</b>
-  - [Temperature Conversion Starter](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Temperature Conversion Rev1](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Sum of Numbers](https://github.com/dpieknik/Sum-of-Numbers)
+  - [Calculator](https://github.com/dpieknik/Calculator)
   - [Change Maker](https://github.com/joshmadakor1/AD_PS)
   - [Clock & Stopwatch](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [Image Gallery](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - [Temperature Conversion Revisit](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Temperature Conversion Rev2](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Python</b>
 
 <h2>📺 Popular YouTube Videos</h2>
