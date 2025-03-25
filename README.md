@@ -4,7 +4,7 @@
 
 - <b>JavaScript</b>
   - [Temperature Conversion Starter](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Sum of Numbers](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Sum of Numbers](https://github.com/dpieknik/Sum-of-Numbers)
   - [Change Maker](https://github.com/joshmadakor1/AD_PS)
   - [Clock & Stopwatch](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [Image Gallery](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
