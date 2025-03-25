@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity & Scripting Projects:</h2>
 
 - <b>JavaScript</b>
-  - [Temperature Conversion Rev1](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Temperature Conversion Rev1](https://github.com/dpieknik/Temperature-Conversion-Rev1)
   - [Sum of Numbers](https://github.com/dpieknik/Sum-of-Numbers)
   - [Calculator](https://github.com/dpieknik/Calculator)
   - [Change Maker](https://github.com/joshmadakor1/AD_PS)
