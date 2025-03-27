@@ -25,6 +25,7 @@ you have any questions, want to talk tech, or just want to compare notes.</b>
   - [Temperature Conversion Rev2](https://github.com/dpieknik/Temperature-Conversion-Rev2)
   - [Carousel](https://github.com/dpieknik/Carousel)
 - <b>Python</b>
+  - [Character Counter](https://github.com/dpieknik/Character-Counter)
 
 <h2> 🤳 Connect with me:</h2>
 
