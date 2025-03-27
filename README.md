@@ -1,7 +1,7 @@
 <h1>Hi, I'm Daniel! </h1>
 
 <h2>***** NOTE ****</h2>
-<h2>Please bare with me as this is a work in progress. I will continue to add my past projects as
+<h2>Please bear with me as this is a work in progress. I will continue to add my past projects as
 I have time to do so. There are many cybersecurity projects, including a breakdown of my homelab,
 as well as blurbs about talks I have done and have planned, articles I post, more Python projects,
 over a decade of IT work, and other content as new projects come down the pipeline that will make 
