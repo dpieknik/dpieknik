@@ -8,7 +8,7 @@ over a decade of IT work, and other content as new projects come down the pipeli
 their way here for archive. This has certainly been an eye-opening project which has earned its way 
 into a blog post. This would not have been so daunting if I had done this earlier in my technology career. 
 I will definitely be promoting an early start of a GitHub to my colleagues and students. 
-Another "don't do what I did" story for the win :)</b>
+Another "don't do what I did" story for the win.</b>
 <b>In the meantime, I'm happy to share my experiences with my fellow students and professionals. By
 sharing our collective knowledge, we can learn, grow, and achieve. Please feel free to reach out if
 you have any questions, want to talk tech, or just want to compare notes.</b>
