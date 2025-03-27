@@ -1,14 +1,17 @@
 <h1>Hi, I'm Daniel! </h1>
 
 <h2>***** NOTE ****</h2>
-<h2>Please bear with me as this is a work in progress. I will continue to add my past projects as
+<b>Please bear with me as this is a work in progress. I will continue to add my past projects as
 I have time to do so. There are many cybersecurity projects, including a breakdown of my homelab,
 as well as blurbs about talks I have done and have planned, articles I post, more Python projects,
 over a decade of IT work, and other content as new projects come down the pipeline that will make 
 their way here for archive. This has certainly been an eye-opening project which has earned its way 
 into a blog post. This would not have been so daunting if I had done this earlier in my technology career. 
 I will definitely be promoting an early start of a GitHub to my colleagues and students. 
-Another "don't do what I did" story for the win :)</h2>
+Another "don't do what I did" story for the win :)</b>
+<b>In the meantime, I'm happy to share my experiences with my fellow students and professionals. By
+sharing our collective knowledge, we can learn, grow, and achieve. Please feel free to reach out if
+you have any questions, want to talk tech, or just want to compare notes.</b>
 
 <h2>👨‍💻 Cybersecurity & Scripting Projects:</h2>
 
