@@ -27,6 +27,11 @@ you have any questions, want to talk tech, or just want to compare notes.</b>
 - <b>Python</b>
   - [Character Counter](https://github.com/dpieknik/Character-Counter)
 
+<h2> 🤳 Community Engagements</h2>
+
+- <b>LinkedIn Posts</b>
+  - [Communication is Key](https://github.com/dpieknik/LinkedIn-Post---Communication-is-Key)
+
 <h2> 🤳 Connect with me:</h2>
 
 https://linktr.ee/DanielPieknik
